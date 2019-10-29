@@ -6,3 +6,4 @@ porpavil sem
 zaka??
 neki novhggausdh
 sem na gitu spremenu
+sprememba na git hubu
