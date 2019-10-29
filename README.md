@@ -1,5 +1,4 @@
 # ROM
 prviasd as 
 
-asddas
-asdasdf kjafa gf
+danes je prvi dfan ko delamo z gitom
