@@ -6,4 +6,8 @@ porpavil sem
 zaka??
 neki novhggausdh
 sem na gitu spremenu
+
 en vpoopravek vzporeden
+
+sprememba na git hubu
+
